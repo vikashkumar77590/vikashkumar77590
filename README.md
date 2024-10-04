@@ -1,4 +1,4 @@
-<img align="top" alt="coding" width="1200" src="https://github.com/vikashkumar77590/vikashkumar77590/blob/main/Ai.jpg">
+<img align="top" alt="coding" width="1200" src="https://github.com/vikashkumar77590/vikashkumar77590/blob/main/AI.png">
 
 
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
