@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/vikashkumar77590/vikashkumar77590/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif?raw=true">
+<img align="right" alt="coding" width="400" src="C:\Users\VIKASH KUMAR\OneDrive\Desktop\140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashkumar77590&label=Profile%20views&color=0e75b6&style=flat" alt="vikashkumar77590" /> </p>
 
